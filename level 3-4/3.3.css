@@ -1,0 +1,42 @@
+*{
+	background-color:orange;
+}
+
+div {
+	border-radius: 5px;
+	font-family: Verdana;
+	font-size: 14px;
+}
+
+#header {
+	height: 90px;
+	background-color: #fda7a7;
+	margin-bottom: 10px;
+	color:red;
+}
+
+.left {
+	height: 480px;
+	width: 150px;
+	background-color: #fda7f2;
+	float: left;
+	margin-bottom: 10px;
+	color:white;
+}
+
+.right {
+	height: 210px;
+	width: 450px;
+	background-color: #eaa7fd;
+	float: right;
+	margin-bottom: 10px;
+	color:blue;
+}
+
+#footer {
+	height: 20px;
+	background-color: #c1a7fd;
+	clear: both;
+	color:green;
+
+}
